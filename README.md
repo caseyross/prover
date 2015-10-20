@@ -37,9 +37,9 @@ irrelevantVar
 Make sure you include the negation of the conclusion you're trying to prove.
 
 ###output
-Each proposition is numbered and, for derived propositions, the parents are listed.
+Each statement is numbered and, for derived statements, the parents are listed.
 
-If a contradiction is found (the proof succeeded), `False` will be the last proposition.
+If a contradiction is found (the proof succeeded), `False` will be the last statement.
 
 ## notes
 This was a project for my Artificial Intelligence class in 2013.
